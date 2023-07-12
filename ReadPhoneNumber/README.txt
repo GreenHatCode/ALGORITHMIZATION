@@ -1,0 +1,1 @@
+This program checks if the entered sequence of digits is a phone number
