@@ -1,0 +1,3 @@
+﻿  DayOfTheWeekApp.cpp
+c:\TEMP\DayOfTheWeekApp\DayOfTheWeekApp\DayOfTheWeekApp.cpp(68): warning C4804: '<': unsafe use of type 'bool' in operation
+  DayOfTheWeekApp.vcxproj -> C:\TEMP\DayOfTheWeekApp\Debug\DayOfTheWeekApp.exe
