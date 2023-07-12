@@ -1,0 +1,1 @@
+This is funny task from my school teacher. And this project is about animals. I copy it from JAVA
