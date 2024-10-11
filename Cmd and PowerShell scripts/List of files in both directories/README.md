@@ -1,0 +1,1 @@
+In the directories whose names are given by the first and second parameters command file, find and display file names (extensions can be any) that are present in both the first and second directories. Only one FOR statement should be used.

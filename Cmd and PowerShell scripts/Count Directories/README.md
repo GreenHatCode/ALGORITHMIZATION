@@ -1,0 +1,1 @@
+Find the total number of subdirectories in a given directory and its subdirectories. Display only the necessary result on the screen.

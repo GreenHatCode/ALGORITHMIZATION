@@ -1,0 +1,1 @@
+Calculate and display on the screen the value of the factorial of an nteger. Provide a check of the specified value and, when a negative value is specified or a value that exceeds the maximum possible value, display appropriate messages.

@@ -1,0 +1,1 @@
+Among integers entered from the keyboard find the largest and smallest. The sign of the end of input is the sign -.
