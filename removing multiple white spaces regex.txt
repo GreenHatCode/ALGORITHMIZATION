@@ -1,0 +1,4 @@
+Removing multiple white spaces from text is easy in PowerShell. Simply use -replace operator and look for whitespaces ("\s") that occur one or more time ("+"), then replace them all with just one whitespace:
+
+PS> '[     Man,     it works!     ]' -replace '\s+', ' '
+[ Man, it works! ]
